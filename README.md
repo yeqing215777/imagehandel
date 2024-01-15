@@ -20,3 +20,11 @@ tiles = si.split(mark)
 print(tiles)
 ...
 ```
+---
+
+- [requirements.txt](requirements.txt)
+``` text
+Pillow
+numpy
+tqdm
+```
